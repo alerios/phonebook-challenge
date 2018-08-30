@@ -15,7 +15,7 @@ The Phonebook code challenge is a non-finished Java project that its name explai
 3. List the existent contacts. 
 4. Create a DB (do whatever to persist data, not in memory of course -_-)
 
-* For JavaScript developers, you can optionally port the backend to nodejs, and focus on the UI improvements for the frontend under PhoneBook/WebContent
+* NOTE: For JavaScript developers, you can optionally port the backend to nodejs, and focus on the UI improvements for the frontend under PhoneBook/WebContent
 
 
 ### Presentation ###
